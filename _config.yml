@@ -21,7 +21,7 @@ repository               : "lixy255.github.io/TonyLi.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : profile.jpg
+  avatar           : https://github.com/lixy255/TonyLi.github.io/profile.jpg
   name             : "Xiangyu Li"
   pronouns         : "He/him" # example: "she/her"  
   bio              : "A general syntax researcher"
