@@ -24,11 +24,11 @@ author:
   avatar           : https://github.com/lixy255/TonyLi.github.io/avatar.jpg
   name             : "Xiangyu Li"
   pronouns         : "He/him" # example: "she/her"  
-  bio              : "A general syntax researcher"
+  bio              : "A general syntax researcher" \r\n \r\n "lixy255@link.cuhk.edu.hk"
   location         : "Hong Kong"
   employer         : "The Chinese University of Hong Kong"
   uri              : https://lixy255.github.io/TonyLi.github.io/ # URL
-  email            : "lixy255@link.cuhk.edu.hk" 
+  email            : "lixy255@link.cuhk.edu.hk"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
